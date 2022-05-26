@@ -1,0 +1,18 @@
+.cardTrain{
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.text-center{
+    text-align: center;
+    color: aquamarine;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: 0 auto;
+}
+body{
+    background-color: black;
+}
